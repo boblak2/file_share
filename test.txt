@@ -1,4 +1,5 @@
-to je neki 2
+to je neki 3
 add line dodal
 dodal vejo
 line github
+remote test
