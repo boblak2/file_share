@@ -3,3 +3,4 @@ add line dodal
 dodal vejo
 line github
 remote test
+neki dodal
